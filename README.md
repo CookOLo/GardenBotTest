@@ -1,5 +1,7 @@
 # GardenBotTest
 
+**Note:** _Contact me for key_
+
 ## Purpose
 To test the Wi-Fi connection at the West Valley Gardens using a Discord Bot.
 
@@ -14,5 +16,4 @@ Why?
 Simple script that:
 - Starts when "count @garden test" is sent in a Discord channel
 - Bot will count down from 30 to 0 every minute, sending in "00:XX" format from the same channel the starter message was sent
-
 
