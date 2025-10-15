@@ -17,3 +17,5 @@ Simple script that:
 - Starts when "count @garden test" is sent in a Discord channel
 - Bot will count down from 30 to 0 every minute, sending in "00:XX" format from the same channel the starter message was sent
 
+## Known Bugs
+- Timeout errors may occur in terminal, but the script works fine as long as it is running -- countdown still happens.
